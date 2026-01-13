@@ -20,7 +20,7 @@ import {
   FaLayerGroup
 } from 'react-icons/fa';
 
-import '../assets/styles/pages/Projects.css';
+import '../assets/styles/pages/projects.css';
 import Garage from '../assets/images/projects/Garage.png';
 import Amazon from '../assets/images/projects/Amazon.png';
 import Netflix from '../assets/images/projects/Netflix.png';
