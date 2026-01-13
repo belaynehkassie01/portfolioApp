@@ -24,7 +24,7 @@ import '../assets/styles/pages/projects.css';
 import Garage from '../assets/images/projects/Garage.png';
 import Amazon from '../assets/images/projects/Amazon.png';
 import Netflix from '../assets/images/projects/Netflix.png';
-import Portfolio from '../assets/images/projects/Portfolio.png';
+import Portfolio from '../assets/images/projects/portfolio.png';
 import Ticketing from '../assets/images/projects/Ticketing.png';
 import Design from '../assets/images/projects/Design.png';
 
