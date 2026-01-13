@@ -24,7 +24,7 @@ import {
 
 import '../assets/styles/pages/About.css';
 import AboutImage from '../assets/images/About.jpg';
-import About1 from '../assets/images/About1.jpg';
+import About1 from '../assets/images/about1.jpg';
 import MyCV from '../assets/Files/Belayneh-kassie-CV.pdf';
 
 
