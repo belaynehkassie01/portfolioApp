@@ -1,0 +1,77 @@
+:root {
+  /* ===== DARK THEME COLOR PALETTE ===== */
+  /* Primary Colors */
+  --primary-dark: #0a192f;
+  --primary-light: #112240;
+  --primary-lighter: #233554;
+  
+  /* Text Colors */
+  --text-primary: #e6f1ff;
+  --text-secondary: #a8b2d1;
+  --text-tertiary: #8892b0;
+  --text-muted: #5a6880;
+  
+  /* Accent Colors - Teal */
+  --accent-primary: #64ffda;
+  --accent-secondary: #52d1b2;
+  --accent-gradient: linear-gradient(135deg, #64ffda 0%, #52d1b2 100%);
+  
+  /* Background Colors */
+  --bg-primary: #0a192f;
+  --bg-secondary: #112240;
+  --bg-tertiary: #0d1b36;
+  
+  /* Border Colors */
+  --border-light: rgba(100, 255, 218, 0.1);
+  --border-medium: rgba(100, 255, 218, 0.2);
+  --border-dark: rgba(100, 255, 218, 0.3);
+  
+  /* ===== TYPOGRAPHY ===== */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'SF Mono', 'JetBrains Mono', 'Fira Code', monospace;
+  
+  /* Font Sizes */
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 1.875rem;
+  --text-4xl: 2.25rem;
+  --text-5xl: 3rem;
+  --text-6xl: 3.75rem;
+  
+  /* ===== SPACING ===== */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-20: 5rem;
+  
+  /* ===== BORDER RADIUS ===== */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-2xl: 20px;
+  --radius-full: 9999px;
+  
+  /* ===== SHADOWS ===== */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.5);
+  --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.6);
+  --shadow-glow: 0 0 20px rgba(100, 255, 218, 0.3);
+  
+  /* ===== TRANSITIONS ===== */
+  --transition-fast: 150ms ease;
+  --transition-base: 300ms cubic-bezier(0.645, 0.045, 0.355, 1);
+  --transition-slow: 500ms ease;
+}
