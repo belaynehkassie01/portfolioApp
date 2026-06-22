@@ -25,7 +25,7 @@ import Garage from '../assets/images/projects/Garage.png';
 import Amazon from '../assets/images/projects/Amazon.png';
 import Netflix from '../assets/images/projects/Netflix.png';
 import Portfolio from '../assets/images/projects/portfolio.png';
-import Ticketing from '../assets/images/projects/Ticketing.png';
+import Sms from '../assets/images/projects/Sms.png';
 import Design from '../assets/images/projects/Design.png';
 
 
@@ -83,12 +83,12 @@ const Projects = () => {
     },
     {
       id: 5,
-      title: 'Ticketing Management ',
-      description: 'A full-stack web app for browsing events and booking tickets, featuring a clean, responsive UI and an admin dashboard with analytics. ',
+      title: 'Student Management System',
+      description: 'A full-stack web app for managing student information, grades, and course enrollments. ',
       category: 'fullstack',
-      image: Ticketing,
-      demoLink: 'https://ticketing-management.vercel.app',
-      codeLink: 'https://github.com/belaynehkassie01/ticketing-management',
+      image: Sms,
+      demoLink: 'https://sms-rho-three.vercel.app/',
+      codeLink: 'https://github.com/belaynehkassie01/SMS',
       year: 2025
     },
     {
