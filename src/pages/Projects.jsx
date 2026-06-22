@@ -25,7 +25,7 @@ import Garage from '../assets/images/projects/Garage.png';
 import Amazon from '../assets/images/projects/Amazon.png';
 import Netflix from '../assets/images/projects/Netflix.png';
 import Portfolio from '../assets/images/projects/portfolio.png';
-import Sms from '../assets/images/projects/Sms.png';
+import Sms from '../assets/images/projects/sms.png';
 import Design from '../assets/images/projects/Design.png';
 
 
