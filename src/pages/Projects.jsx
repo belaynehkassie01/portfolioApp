@@ -84,7 +84,7 @@ const Projects = () => {
     {
       id: 5,
       title: 'Student Management System',
-      description: 'A full-stack web app for managing student information, grades, and course enrollments. ',
+      description: 'A full-stack web app for managing student information, grades, and course enrollments',
       category: 'fullstack',
       image: Sms,  // Replace with the actual image URL
       demoLink: 'https://sms-rho-three.vercel.app/',
